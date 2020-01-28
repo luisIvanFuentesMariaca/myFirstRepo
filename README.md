@@ -1,2 +1,3 @@
 # myFirstRepo
-This is a Repo for class THIS its a demo for class
+This is a Repo for class 
+THIS is not a demo for class
